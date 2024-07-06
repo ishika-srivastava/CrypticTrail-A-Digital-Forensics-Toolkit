@@ -1,0 +1,6 @@
+pytsk3
+volatility3
+pandas
+reportlab
+flask
+logging
