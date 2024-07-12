@@ -9,10 +9,10 @@ def printBanner():
   copyright_info = """
 -------------------------------------------------
 CrypticTrail - A Digital Forensic Toolkit
-Created by: Ishika Srivastava
-GitHub : https://github.com/ishika-srivastava/CrypticTrail-A-Digital-Forensics-Toolkit
-Version: 1.0
-License: MIT
+Created by : Ishika Srivastava
+GitHub     : https://github.com/ishika-srivastava/CrypticTrail-A-Digital-Forensics-Toolkit
+Version    : 1.0
+License    : MIT
 (c) 2024 Ishika Srivastava. All rights reserved.
 -------------------------------------------------
 """
